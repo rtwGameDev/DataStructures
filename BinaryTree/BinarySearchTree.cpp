@@ -1,3 +1,6 @@
+
+// CÁC HÀM CÒN SƠ KHAI _ KHÔNG CHÍNH XÁC
+
 #include <iostream>
 using namespace std;
 class node {
